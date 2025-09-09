@@ -1,9 +1,3 @@
-let fullName = "Turan Muradli"; 
-
-
-let total = (fullName.length);
-
-
-let count = total - 1;
-
-console.log(count);
+const num = 14; 
+console.log(num ** 5);
+console.log(num % 3);
